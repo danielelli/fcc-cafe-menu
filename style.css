@@ -37,6 +37,12 @@ h1, h2 {
     padding: 20px;
 }
 
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .item p {
     display: inline-block;
     font-size: 18px;
